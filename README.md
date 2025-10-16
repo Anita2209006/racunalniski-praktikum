@@ -1,1 +1,2 @@
-# racunalniski-praktikum
+# Racunalniski-praktikum
+Ctrl + c - copy, Ctrl + v - paste, Ctrl + z - undo
