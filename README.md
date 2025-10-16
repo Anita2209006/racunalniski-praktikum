@@ -1,2 +1,2 @@
 # Racunalniski-praktikum
-Ctrl + c - copy, Ctrl + v - paste, Ctrl + z - undo
+Ctrl + n - odpiranje novega okna. Ctrl + f - išči. Ctrl + z - razveljavi.
